@@ -10,6 +10,7 @@ dist/
 build/
 .env
 venv/
+.venv/
 ENV/
 *.sqlite3
 *.db
