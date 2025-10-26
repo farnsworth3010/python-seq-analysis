@@ -1,6 +1,10 @@
 # Revenue Time Series Analysis
 
-## Task Description
+## Visualization
+
+![Revenue Time Series](image.png)
+
+## Project Description
 For a store selling winter sports equipment, it is required to select a trend and make a revenue forecast based on data from the last 10 months.
 
 The project implements:
